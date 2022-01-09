@@ -1,5 +1,5 @@
 # Investigation of the nutrients content of major food categories
-<i> <b> Applied Multivariate Statistical Analysis </b>, MSc in Bioinformatics, 2022, Antoine Ruzette </i> 
+<i> <b> Applied Multivariate Statistical Analysis </b>, MSc in Bioinformatics, KU Leuven, 2022, Antoine Ruzette </i> 
 
 Content: 
 
