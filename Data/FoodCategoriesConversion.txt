@@ -1,0 +1,24 @@
+11	Non-alcoholic beverages
+12	Cereals and cereal products 
+13	Cereal based products and dishes
+14	Fats and oils 
+15	Fish and seafood products and dishes 
+16	Fruit products and dishes 
+17	Egg products and dishes 
+18	Meat, poultry and game products and dishes 
+19	Milk products and dishes 
+20	Dairy & meat substitutes
+21	Soup 
+22	Seed and nut products and dishes 
+23	Savoury sauces and condiments 
+24	Vegetable products and dishes 
+25	Legume and pulse products and dishes 
+26	Snack foods 
+27	Sugar products and dishes 
+28	Confectionery and cereal/nut/fruit/seed bars 
+29	Alcoholic beverages 
+30	Special dietary foods 
+31	Miscellaneous 
+32	Infant formulae and foods 
+33	Dietary supplements
+34	Reptiles, amphibia and insects
